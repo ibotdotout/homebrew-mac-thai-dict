@@ -24,10 +24,9 @@ $ brew cask install mac-thai-dict
 
 ![lookup](/lookup.png)
 
-
 ```
-1. Selection the "word"
-2. left click > lookup "word"
+1. Select the "word"
+2. Left click > lookup "word"
 
 or you can use 3 fingers to lookup
 1. Goto System Preferences
