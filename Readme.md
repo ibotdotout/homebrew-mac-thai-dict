@@ -1,14 +1,16 @@
 Caskroom-Mac-thai-dict
 ============================
 
-Install with [Homebrew Cask](https://caskroom.github.io/):
+![dict-balloon](/dict-balloon.png)
+
+## Install with [Homebrew Cask](https://caskroom.github.io/):
 
 ```sh
 $ brew tap ibotdotout/mac-thai-dict
 $ brew cask install mac-thai-dict
 ```
 
-Set up:
+## Setup:
 
 ![setup dict prefereces](/dict-preferences.png)
 
@@ -18,11 +20,10 @@ Set up:
 3. Drag "Thai Dictionaries" to the top
 ```
 
-Usage:
+## Usage:
 
 ![lookup](/lookup.png)
 
-![dict-balloon](/dict-balloon.png)
 
 ```
 1. Selection the "word"
