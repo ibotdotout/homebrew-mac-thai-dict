@@ -1,11 +1,37 @@
 Caskroom-Mac-thai-dict
 ============================
 
-Install with Homebrew Cask
+Install with [Homebrew Cask](https://caskroom.github.io/):
 
 ```sh
 $ brew tap ibotdotout/mac-thai-dict
 $ brew cask install mac-thai-dict
+```
+
+Set up:
+
+![setup dict prefereces](/dict-preferences.png)
+
+```
+1. Open Dictionary App
+2. Dictionary > Preferences...
+3. Drag "Thai Dictionaries" to the top
+```
+
+Usage:
+
+![lookup](/lookup.png)
+
+![dict-balloon](/dict-balloon.png)
+
+```
+1. Selection the "word"
+2. left click > lookup "word"
+
+or you can use 3 fingers to lookup
+1. Goto System Preferences
+2. Trackpad > Points & Click
+3. Click "Lookup & data detectors"
 ```
 
 ## References
