@@ -17,7 +17,7 @@ $ brew install mac-thai-dict
 ```
 1. Open Dictionary App
 2. Dictionary > Preferences...
-3. Drag "Thai Dictionaries" to the top
+3. Drag "LEXiTRON ..." to the top
 ```
 
 ## Usage:
@@ -38,3 +38,4 @@ or you can use 3 fingers to lookup
 * [LEXiTRON Mac Dictionary](https://github.com/garfieldnate/Lexitron-Mac)
 * [วิธีติดตั้ง Dictionary แปลภาษาไทย-อังกฤษ บน Mac OS X](http://www.macthai.com/2015/11/05/install-dictionary-th-en-on-mac-osx/)
 * [ติดตั้งและใช้งานดิกชันนารี Eng – Thai บน OS X 10.11.x (El Capitan)](https://www.iphonemod.net/eng-thai-dictionary-osx-el-capitan.html)
+**** [SIAM IPA, A homebrew tap for Thais!](https://github.com/codeforthailand/homebrew-siam-ipa)
