@@ -3,11 +3,11 @@ Caskroom-Mac-thai-dict
 
 ![dict-balloon](/dict-balloon.png)
 
-## Install with [Homebrew Cask](https://caskroom.github.io/):
+## Install with [Homebrew](https://brew.sh/):
 
 ```sh
 $ brew tap ibotdotout/mac-thai-dict
-$ brew cask install mac-thai-dict
+$ brew install mac-thai-dict
 ```
 
 ## Setup:
@@ -35,7 +35,6 @@ or you can use 3 fingers to lookup
 ```
 
 ## References
-* [ติดตั้งและใช้งานดิกชันนารี Eng – Thai บน OS X 10.11.x (El Capitan)](https://www.iphonemod.net/eng-thai-dictionary-osx-el-capitan.html)
+* [LEXiTRON Mac Dictionary](https://github.com/garfieldnate/Lexitron-Mac)
 * [วิธีติดตั้ง Dictionary แปลภาษาไทย-อังกฤษ บน Mac OS X](http://www.macthai.com/2015/11/05/install-dictionary-th-en-on-mac-osx/)
-* [Homebrew Cask](https://caskroom.github.io/)
-* [Homebrew Cask - How To Contribute](https://github.com/caskroom/homebrew-cask/blob/master/CONTRIBUTING.md) - [Adding a Cask](https://github.com/caskroom/homebrew-cask/blob/master/doc/development/adding_a_cask.md)
+* [ติดตั้งและใช้งานดิกชันนารี Eng – Thai บน OS X 10.11.x (El Capitan)](https://www.iphonemod.net/eng-thai-dictionary-osx-el-capitan.html)
