@@ -1,8 +1,9 @@
 cask 'mac-thai-dict' do
   version '1.0.1'
-  sha256 '7ced97d5e3b0906599420560b5b343544dea976d095923aefcb0e2a8f9b15ba2'
+  sha256 'c4832b5d57106b47d3af36b2c562ced348fd25462727a92730291aa828f0a926'
 
-  url "http://www.istudio.in.th/downloads/mac-thai-dict-#{version}.pkg.zip"
+  url "https://storage.googleapis.com/codeforthailand/mac-thai-dict-#{version}.pkg"
+  homepage "https://www.macthai.com/2015/11/05/install-dictionary-th-en-on-mac-osx/"
 
   pkg "mac-thai-dict-#{version}.pkg"
 
